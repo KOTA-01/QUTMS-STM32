@@ -1,0 +1,48 @@
+Configuration	MircoTest
+STM32CubeMX 	6.9.0
+Date	08/17/2023
+MCU	STM32F302R8Tx
+
+
+
+PERIPHERALS	MODES	FUNCTIONS	PINS
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PC13	GPIO_Input	
+34	PB13	GPIO_Output	
+PERIPHERALS	MODES	FUNCTIONS	PINS
+
+
+
+Pin Nb	PINs	FUNCTIONs	LABELs
+2	PC13	GPIO_Input	
+34	PB13	GPIO_Output	
+
+
+
+SOFTWARE PROJECT
+
+Project Settings : 
+Project Name : MircoTest
+Project Folder : C:\Users\Home\OneDrive - Queensland University of Technology\Documents\GitHub\QUTMS-STM32\MircoTest
+Toolchain / IDE : STM32CubeIDE
+Firmware Package Name and Version : STM32Cube FW_F3 V1.11.4
+
+
+Code Generation Settings : 
+STM32Cube MCU packages and embedded software packs : Copy only the necessary library files
+Generate peripheral initialization as a pair of '.c/.h' files per peripheral : No
+Backup previously generated files when re-generating : No
+Delete previously generated files when not re-generated : Yes
+Set all free pins as analog (to optimize the power consumption) : No
+
+
+Toolchains Settings : 
+Compiler Optimizations : 
+
+
+
+
+
